@@ -149,15 +149,10 @@ The followings are top 5 softmax probabilities for each image.
 **Top 5 class predictions for children_crossing.jpeg:**
 
 Correct ID: 28, label: Children crossing
-
 Predicted ID 1: 28, label: Children crossing, probability: 0.8041014075
-
 Predicted ID 2: 23, label: Slippery road, probability: 0.0823512897
-
 Predicted ID 3: 11, label: Right-of-way at the next intersection, probability: 0.0344926640
-
 Predicted ID 4: 38, label: Keep right, probability: 0.0302122943
-
 Predicted ID 5: 20, label: Dangerous curve to the right, probability: 0.0188851152
 
 **Top 5 class predictions for no_passing.jpeg:**
