@@ -147,6 +147,7 @@ The code for making predictions on my final model is located in the last second 
 The followings are top 5 softmax probabilities for each image.
 
 **Top 5 class predictions for children_crossing.jpeg:**
+
 Correct ID: 28, label: Children crossing
 * Predicted ID 1: 28, label: Children crossing, probability: 0.8041014075
 * Predicted ID 2: 23, label: Slippery road, probability: 0.0823512897
@@ -155,6 +156,7 @@ Correct ID: 28, label: Children crossing
 * Predicted ID 5: 20, label: Dangerous curve to the right, probability: 0.0188851152
 
 **Top 5 class predictions for no_passing.jpeg:**
+
 Correct ID: 9, label: No passing
 * Predicted ID 1: 17, label: No entry, probability: 0.7137765884
 * Predicted ID 2: 14, label: Stop, probability: 0.2848145664
@@ -163,6 +165,7 @@ Correct ID: 9, label: No passing
 * Predicted ID 5: 36, label: Go straight or right, probability: 0.0000692831
 	
 **Top 5 class predictions for road_work.jpeg:**
+
 Correct ID: 25, label: Road work
 * Predicted ID 1: 25, label: Road work, probability: 0.4727835059
 * Predicted ID 2: 21, label: Double curve, probability: 0.4030152261
@@ -171,6 +174,7 @@ Correct ID: 25, label: Road work
 * Predicted ID 5: 26, label: Traffic signals, probability: 0.0103566507
 	
 **Top 5 class predictions for slippery_road.jpeg:**
+
 Correct ID: 23, label: Slippery road
 * Predicted ID 1: 23, label: Slippery road, probability: 0.9962728024
 * Predicted ID 2: 19, label: Dangerous curve to the left, probability: 0.0037270512
@@ -179,6 +183,7 @@ Correct ID: 23, label: Slippery road
 * Predicted ID 5: 31, label: Wild animals crossing, probability: 0.0000000035
 	
 **Top 5 class predictions for stop.jpeg:**
+
 Correct ID: 14, label: Stop
 * Predicted ID 1: 14, label: Stop, probability: 0.9999716282
 * Predicted ID 2: 17, label: No entry, probability: 0.0000275515
