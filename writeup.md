@@ -156,34 +156,59 @@ Predicted ID 5: 20, label: Dangerous curve to the right, probability: 0.01888511
 
 Top 5 class predictions for no_passing.jpeg:
 Correct ID: 9, label: No passing
+
 Predicted ID 1: 17, label: No entry, probability: 0.7137765884
+
 Predicted ID 2: 14, label: Stop, probability: 0.2848145664
+
 Predicted ID 3: 9, label: No passing, probability: 0.0011010527
+
 Predicted ID 4: 8, label: Speed limit (120km/h), probability: 0.0002295068
+
 Predicted ID 5: 36, label: Go straight or right, probability: 0.0000692831
+
 	
 Top 5 class predictions for road_work.jpeg:
+
 Correct ID: 25, label: Road work
+
 Predicted ID 1: 25, label: Road work, probability: 0.4727835059
+
 Predicted ID 2: 21, label: Double curve, probability: 0.4030152261
+
 Predicted ID 3: 11, label: Right-of-way at the next intersection, probability: 0.0877435356
+
 Predicted ID 4: 35, label: Ahead only, probability: 0.0216240752
+
 Predicted ID 5: 26, label: Traffic signals, probability: 0.0103566507
+
 	
 Top 5 class predictions for slippery_road.jpeg:
+
 Correct ID: 23, label: Slippery road
+
 Predicted ID 1: 23, label: Slippery road, probability: 0.9962728024
+
 Predicted ID 2: 19, label: Dangerous curve to the left, probability: 0.0037270512
+
 Predicted ID 3: 21, label: Double curve, probability: 0.0000001036
+
 Predicted ID 4: 11, label: Right-of-way at the next intersection, probability: 0.0000000747
+
 Predicted ID 5: 31, label: Wild animals crossing, probability: 0.0000000035
 	
 Top 5 class predictions for stop.jpeg:
+
 Correct ID: 14, label: Stop
+
 Predicted ID 1: 14, label: Stop, probability: 0.9999716282
+
 Predicted ID 2: 17, label: No entry, probability: 0.0000275515
+
 Predicted ID 3: 38, label: Keep right, probability: 0.0000006575
+
 Predicted ID 4: 34, label: Turn left ahead, probability: 0.0000000992
+
 Predicted ID 5: 3, label: Speed limit (60km/h), probability: 0.0000000061
 
 ### (Optional) Visualizing the Neural Network (See Step 4 of the Ipython notebook for more details)
